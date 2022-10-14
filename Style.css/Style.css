@@ -1,0 +1,173 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} .First{
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 3rem;
+    padding-top: calc(12rem + 57px);
+    padding-bottom: 12rem;
+    background-color: #6c757d;
+  
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-clean-blog/assets/img/home-bg.jpg);
+} 
+ .First h1{
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+    font-weight: 800;
+    line-height: 1.2;
+    color: #fff;
+    
+} 
+.First span{
+    font-size: 1.5rem;
+    font-weight: 300;
+    line-height: 1.1;
+    margin-top: 4rem;
+    color: #fff;
+    cursor: none;
+}.Second{
+    cursor: pointer;
+    margin-left: 30%;
+    font-size: 1.875rem;;
+    margin-top: 4%;
+    margin-bottom: 0.625rem;
+    font-weight: 800;
+    line-height: 1.2;
+    color: #212529;
+    cursor: pointer;
+} .Second h2{
+    font-size: 130%;
+} 
+.Second p{
+    font-weight: 300;
+    margin-bottom: 0.625rem;
+    font-size: calc(1.3rem + 0.6vw);
+    color: #212529;
+    line-height: 1.2;
+} .Second span{
+    font-weight: normal;
+    font-size: 1.125rem;
+    font-style: italic;
+    color: #6c757d;
+} .Second hr{
+    margin-right: 45%;
+}
+.Start{
+    margin-top: 2%;
+    width: 100%;
+    position: fixed;
+} .Start .nav-right{
+    float: right;
+    margin-right: 10%;
+}.Start .nav-left{
+    float: left;
+    margin-left: 10%;
+    color: white;
+}.Start .nav-right a{
+    color: white;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: bolder;
+    margin-left: 20px;
+}.Third{
+    cursor: pointer;
+}
+.Third h2{
+    font-size: 1.875rem;
+    margin-top: 1.875rem;
+    margin-bottom: 0.625rem;
+    font-weight: 800;
+    line-height: 1.2;
+    color: #212529;
+    margin-left: 30%;
+    margin-right: 30%;
+} .Third span{
+    font-weight: normal;
+    font-size: 1.125rem;
+    font-style: italic;
+    color: #6c757d;
+    margin-right: 45%;
+    margin-left: 30%;
+} .Third hr{
+    margin-right: 30%;
+    margin-left: 30%;
+}.Fourth h2{
+    font-size: 1.875rem;
+    margin-top: 1.875rem;
+    margin-bottom: 0.625rem;
+    font-weight: 800;
+    line-height: 1.2;
+    color: #212529;
+    margin-left: 30%;
+    margin-right: 30%;
+}.Fourth p{
+    font-weight: 300;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 0.625rem;
+    font-size: calc(1.3rem + 0.6vw);
+    color: #212529;
+    line-height: 1.2;
+}.Fourth span{
+    font-weight: normal;
+    font-size: 1.125rem;
+    font-style: italic;
+    color: #6c757d;
+    margin-right: 45%;
+    margin-left: 30%;
+}.Fourth hr{
+    margin-right: 30%;
+    margin-left: 30%;
+}.Fifth h2{
+    font-size: 1.875rem;
+    margin-top: 1.875rem;
+    margin-bottom: 0.625rem;
+    font-weight: 800;
+    line-height: 1.2;
+    color: #212529;
+    margin-left: 30%;
+    margin-right: 30%;
+} .Fifth p{
+    font-weight: 300;
+    margin-bottom: 0.625rem;
+    margin-right: 30%;
+    font-size: calc(1.3rem + 0.6vw);
+    color: #212529;
+    line-height: 1.2;
+    margin-left: 30%;
+}.Fifth span{
+    font-weight: normal;
+    font-size: 1.125rem;
+    font-style: italic;
+    color: #6c757d;
+    margin-right: 45%;
+    margin-left: 30%;
+}.Fifth hr{
+    margin-right: 30%;
+    margin-left: 30%;
+} .Fifth button{
+    background-color: #0085A1;
+    border-color: hsl(190, 100%, 32%);
+    margin-left: 60%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    padding-right: 3%;
+    padding-left: 3%;
+    border-color: #0085A1;
+    border: 1px solid transparent;
+    padding: 1rem 1.75rem;
+    font-size: 0.875rem;
+    margin-top: 2%;
+    margin-bottom: 2%;
+  
+}.Fifth button a{
+    font-weight: 800;
+    line-height: 1.5;
+    text-decoration: none;
+    color: white;
+}
